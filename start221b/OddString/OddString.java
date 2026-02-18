@@ -1,7 +1,7 @@
 
 import java.lang.*;
 import java.util.*;
-
+     // Solution for Odd String problem from START221B
 class OddString
 {
     public static void main(String[] args) throws java.lang.Exception
