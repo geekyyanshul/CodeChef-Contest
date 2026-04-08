@@ -8,14 +8,7 @@ Each folder corresponds to a CodeChef contest and contains sub-folders for indiv
 
 | Contest | Problems Solved |
 |---------|-----------------|
-| [start215c](./start215c) | Differing Values, Gem Bundles, Intersecting Intervals (Easy & Hard), Special Missions |
-| [start216c](./start216c) | Best Seats, Entertainments, Minimum Same Difference, Scoring, XOR Equal Subtract |
-| [start217c](./start217c) | Add 1 or 3, Add to Make Positive, Make An AP, Playing with Toys |
-| [start220c](./start220c) | FB Matching, Movie Hype, Monochrome Minimization, New Year Resolution, Two Pile Game |
-| [start221b](./start221b) | Odd Operations, Odd String, Three Strings Problem |
-| [start226c](./start226c) | Ice Cream Cone, Minimum Distinct, Sub A Add B |
-| [start228b](./start228b) | Balloon Speed, Max AND O, Min AND O, Minimize Error |
-| [start233b](./start233b) | A B or C, K-Median, LCA Sets, Median Updates, Movie |
+| [start215c](./start215c) | Problem 1, Problem 2, Problem 3 and so on|
 
 ## Languages Used
 
@@ -37,5 +30,5 @@ python3 solution.py
 
 ## Author
 
-**Yanshul Garg** – [@geekyyanshul](https://github.com/geekyyanshul)
+**Anshul Chourasiya** – [@geekyyanshul](https://github.com/geekyyanshul)
 
