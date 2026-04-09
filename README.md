@@ -7,7 +7,7 @@ A collection of competitive programming solutions for various [CodeChef](https:/
 Each folder corresponds to a CodeChef contest and contains sub-folders for individual problems:
 
 | Contest | Problems Solved |
-|---------|-----------------|
+|---------|-----------------|    
 | [start215c](./start215c) | Problem 1, Problem 2, Problem 3 and so on|
 
 ## Languages Used
