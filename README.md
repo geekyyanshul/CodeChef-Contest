@@ -1,6 +1,6 @@
 # CodeChef Contest Solutions
 
-A collection of competitive programming solutions for various [CodeChef](https://www.codechef.com/) Starters contests, primarily written in Java with occasional Python.
+A collection of competitive programming solutions for various [CodeChef](https://www.codechef.com/) Starters contests, primarily written in Java with occasional Python.   
 
 ## Repository Structure
 
